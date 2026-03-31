@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality blogs, emails, and marketing content using AI.",
+    "price": 29,
+    "period": "Mo",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Unlimited AI writing", "50+ templates", "Grammar checker"],
+    "icon": "writing"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "Professional templates for social media and presentations.",
+    "price": 49,
+    "period": "One-Time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["2000+ templates", "Commercial license", "Monthly updates"],
+    "icon": "design-tool"
+  },
+  {
+    "id": 3,
+    "name": "Stock Assets Library",
+    "description": "Access millions of premium images and videos.Try it free for 7 days.",
+    "price": 19,
+    "period": "Mo",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["10M+ assets", "No attribution", "HD quality"],
+    "icon": "portfolio"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive tasks and workflows easily.",
+    "price": 79,
+    "period": "Mo",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["50+ automations", "API access", "Custom workflows"],
+    "icon": "operation"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create ATS-friendly resumes and cover letters.",
+    "price": 15,
+    "period": "One-Time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["100+ templates", "ATS optimized", "PDF export"],
+    "icon": "social-media"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Kit",
+    "description": "Everything you need to grow your social presence.",
+    "price": 39,
+    "period": "Mo",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["5000+ assets", "Post scheduler", "Analytics"],
+    "icon": "shopping-cart"
+  },
+  {
+    "id": 7,
+    "name": "Video Editing Suite",
+    "description": "Edit professional videos with ease.",
+    "price": 59,
+    "period": "Mo",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["4K export", "Transitions", "Audio tools"],
+    "icon": "portfolio"
+  },
+  {
+    "id": 8,
+    "name": "SEO Optimization Tool",
+    "description": "Boost your website ranking.",
+    "price": 25,
+    "period": "Mo",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Keyword research", "Site audit", "Analytics"],
+    "icon": "operation"
+  },
+  {
+    "id": 9,
+    "name": "Email Marketing Pro",
+    "description": "Create and automate email campaigns.",
+    "price": 35,
+    "period": "Mo",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Email templates", "Automation", "Tracking"],
+    "icon": "writing"
+  }
+]
