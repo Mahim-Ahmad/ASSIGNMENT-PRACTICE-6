@@ -1,16 +1,38 @@
-# React + Vite
+1. Project Name 
+DigiTools – Digital Tools Buying Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+2. Description
 
-## React Compiler
+DigiTools is a modern and responsive web application where users can explore and purchase premium digital tools. It provides a clean UI, smooth user experience, and essential e-commerce features like product listing, cart management, and checkout functionality.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Technologies Used
+
+   i.React.js
+  ii.Tailwind CSS
+ iii.DaisyUI
+  iv.JavaScript (ES6+)
+   v.React-Toastify
+  vi.JSON (for product data)
+
+
+
+4. Key Features
+
+i.Cart Functionality :
+
+Users can add products to the cart, remove them, and see the total price. The cart updates dynamically and shows the total item count in the navbar.
+
+
+ii.Product & Cart Toggle :
+
+Users can easily switch between the product list and cart section using toggle buttons. The product section is shown by default.
+
+
+iii.Interactive Notifications :
+
+Integrated React-Toastify to show real-time alerts for actions like adding items to the cart, removing items, and completing checkout.
+
