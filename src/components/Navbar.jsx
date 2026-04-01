@@ -1,7 +1,7 @@
 import { ShoppingCart, Menu, X } from "lucide-react";
 import { useState } from "react";
 
-const Navbar = () => {
+const Navbar = ({ cartCount }) => {
   const [open, setOpen] = useState(false);
 
   return (
@@ -26,7 +26,11 @@ const Navbar = () => {
          
           <div className="relative shrink-0">
             <ShoppingCart size={22} />
-            
+            {cartCount > 0 && (
+              <span className="absolute -top-2 -right-2 bg-red-500 text-white text-[10px] px-1.5 py-px rounded-full">
+                {cartCount}
+              </span>
+            )}
           </div>
 
           
